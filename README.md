@@ -85,9 +85,11 @@ Jika anda berminat untuk memodifikasi game ini, silahkan email saya untuk memint
 Saya membuat game ini dengan Construct 3 engine. Artinya, Construct 3 ini mengekspor hasil compile dari programnya menjadi file Javascript. File diatas merupakan file hasil export dari Construct 3.
 
 
-## Authors
+## Credit
 
-- [Ardean Studio](https://www.github.com/ardeanstudio)
+- [Gelsy Ribeiro Macedo](https://www.github.com/)
+- [Joffre Macedo Neto](https://www.github.com/)
+- [Thiago Andre](https://www.github.com/)
 
 
 ## Support
