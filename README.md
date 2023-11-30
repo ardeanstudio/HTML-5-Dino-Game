@@ -10,7 +10,7 @@
 
 # HTML 5 Dino Game
 
-Game HTML 5 berbasis web dibuat dengan Construct 3.
+Game HTML 5 berbasis web dibuat dengan Construct 3. [Coba Demo Disini](https://dinogame.ardeanstudio.co/)
 
 
 ## Screenshots
